@@ -22,8 +22,8 @@ To run the code, follow these steps:
 * The results demonstrate successful and efficient clustering with this large input size.
 
 # Requirements
-Python 3.x
-NumPy
+* Python 3.x
+* NumPy
 
 # Acknowledgements
 I would like to acknowledge the contributions of Almog Khaikin for their collaboration and efforts in this project.
