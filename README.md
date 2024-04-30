@@ -11,22 +11,20 @@ This project implements the PAM (Partitioning Around Medoids) and Silhouette alg
 To run the code, follow these steps:
 
 1. Clone Repository: Clone this repository to your local machine using the following command:
-> git clone <repository_url>
+> git clone https://github.com/Nir-betesh/PAM_Silhouette_py.git
 
+2. Navigate to Project Folder: Navigate to the project folder using the command line or terminal.
+3. Run Python Script: Run the Python script pam_silhouette.py using Python:
+> python pam_silhouette.py
 
-Replace <repository_url> with the URL of this repository.
-Navigate to Project Folder: Navigate to the project folder using the command line or terminal.
-Run Python Script: Run the Python script pam_silhouette.py using Python:
-Copy code
-python pam_silhouette.py
-Results
-The implementation has been tested with various input sizes, including a distance matrix of size 10,000 x 10,000. The results demonstrate successful and efficient clustering with this large input size.
+# Results
+* The implementation has been tested with various input sizes, including a distance matrix of size 10,000 x 10,000.
+* The results demonstrate successful and efficient clustering with this large input size.
 
-Requirements
+# Requirements
 Python 3.x
 NumPy
-Contributing
-Contributions to further optimize the implementation or add new features are welcome. Please feel free to submit pull requests or raise issues in the repository.
 
-Acknowledgements
-We would like to acknowledge the contributions of [Name of Your Study Partner] for their collaboration and efforts in this project. Working together, we were able to achieve successful results and advance our understanding of clustering algorithms.
+# Acknowledgements
+I would like to acknowledge the contributions of Almog Khaikin for their collaboration and efforts in this project.
+Working together, we were able to achieve successful results and advance our understanding of clustering algorithms.
