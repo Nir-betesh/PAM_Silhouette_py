@@ -4,6 +4,7 @@ This project implements the PAM (Partitioning Around Medoids) and Silhouette alg
 # Features
 * Efficient Implementation: The algorithms are implemented in Python to ensure ease of use and readability.
 * Utilization of Special Features of Registers: Special features of registers are not applicable in Python, but the implementation focuses on optimizing algorithmic efficiency.
+#
 * Input: The code takes a distance matrix of size N x N as input.
 * Output: The output of the code is the optimal number of clusters determined by the algorithms.
 
