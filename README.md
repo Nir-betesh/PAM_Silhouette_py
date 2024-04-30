@@ -6,13 +6,14 @@ This project implements the PAM (Partitioning Around Medoids) and Silhouette alg
 * Utilization of Special Features of Registers: Special features of registers are not applicable in Python, but the implementation focuses on optimizing algorithmic efficiency.
 * Input: The code takes a distance matrix of size N x N as input.
 * Output: The output of the code is the optimal number of clusters determined by the algorithms.
-Usage
+
+# Usage
 To run the code, follow these steps:
 
-Clone Repository: Clone this repository to your local machine using the following command:
-bash
-Copy code
-git clone <repository_url>
+1. Clone Repository: Clone this repository to your local machine using the following command:
+> git clone <repository_url>
+
+
 Replace <repository_url> with the URL of this repository.
 Navigate to Project Folder: Navigate to the project folder using the command line or terminal.
 Run Python Script: Run the Python script pam_silhouette.py using Python:
