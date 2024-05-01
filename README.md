@@ -26,6 +26,6 @@ To run the code, follow these steps:
 * Python 3.x
 * NumPy
 
-# Acknowledgements
-I would like to acknowledge the contributions of Almog Khaikin for their collaboration and efforts in this project.
-Working together, we were able to achieve successful results and advance our understanding of clustering algorithms.
+# Authors
+Almog Khaikin
+Nir Betesh
