@@ -27,6 +27,6 @@ To run the code, follow these steps:
 * NumPy
 
 # Authors
-Almog Khaikin
-Nir Betesh
+* Almog Khaikin
+* Nir Betesh
 
